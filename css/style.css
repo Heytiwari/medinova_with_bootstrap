@@ -244,3 +244,7 @@
     width: 150px;
     height: 150px;
 }
+
+.services-link a:hover {
+    color: var(--primary) !important;
+}
