@@ -226,10 +226,10 @@ The website is designed to work across:
 Bootstrap's responsive classes and custom CSS media queries are used to
 adjust the layout for different screen sizes.
 
-### 📱 Responsive Previews (Optional)
-| Desktop |
-| :---: | :---: |
-| ![Desktop Preview](./hospital-website%20template.png) |
+## 📸 Screenshots
+
+### Desktop
+![Desktop Screenshot](./hospital-website%20template.png)
 
 ### 📱 Responsive Previews (Optional)
 | Tablet | Mobile |
