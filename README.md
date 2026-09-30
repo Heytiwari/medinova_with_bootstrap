@@ -236,6 +236,13 @@ adjust the layout for different screen sizes.
 | :---: | :---: |
 | ![Tablat Preview](./tablet-view.png) | ![mobile Preview](./mobile-view.png) |
 
+## 🎥 Project Video
+
+
+https://github.com/user-attachments/assets/1dc0a9ed-38ac-4551-b106-0787096d8fab
+
+
+
 ## 👨‍💻 Author
 
 **Rajan Tiwari**
