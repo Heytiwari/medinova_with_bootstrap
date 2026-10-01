@@ -238,10 +238,7 @@ adjust the layout for different screen sizes.
 
 ## 🎥 Project Video
 
-
-https://github.com/user-attachments/assets/1dc0a9ed-38ac-4551-b106-0787096d8fab
-
-
+https://github.com/user-attachments/assets/326cf328-891d-40c4-a93e-3cfc7c444fcb
 
 ## 👨‍💻 Author
 
